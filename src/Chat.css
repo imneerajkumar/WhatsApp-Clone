@@ -59,6 +59,8 @@
   margin-bottom: 30px;
   width: fit-content;
   max-width: 600px;
+  white-space: pre-wrap;
+  word-wrap: break-word;
 }
 
 .chat__reciever {
